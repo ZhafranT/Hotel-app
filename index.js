@@ -41,4 +41,4 @@ app.listen(8800, () => {
    console.log('Connected to backend.');
 });
 
-// time in video 1:00:44
+// time in video 1:13:57
